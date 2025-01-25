@@ -17,4 +17,12 @@ The success of the project will be evaluated using standard language modeling me
 ### Qualitative Analysis
 To verify the model's performance qualitatively, I will analyze its ability to generate coherent and contextually relevant text. Toy examples, such as predicting words in simple sentences or generating short paragraphs, will be used for initial sanity checks. Visualization tools, such as attention heatmaps, will help understand how the model allocates attention across tokens. The moonshot case will involve generating text that demonstrates a strong grasp of context, grammar, and creativity, such as completing prompts or producing stylistically consistent passages.
 
+## Part 2.6 AI Tool Usage
+AI tools were used during the initial stages of this project to brainstorm ideas, structure the project proposal, and refine the project's scope. These tools helped generate potential use cases and suggested approaches for implementing the transformer architecture. All outputs from AI tools were critically reviewed and adjusted to ensure they aligned with the objectives of the project and contributed meaningfully to its development.
+
+
+
+
+
+
 
