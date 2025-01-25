@@ -7,4 +7,4 @@ Source code: https://github.com/byrencheema/gpt-from-scratch
 Reports:
 
 - [Proposal](proposal.html)
-- [Status](status.html
+- [Status](status.html)
